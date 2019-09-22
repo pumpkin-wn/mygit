@@ -1,6 +1,5 @@
-class Doge extends Animal{
-	void shout(){
-		System.out.println("æ±ªæ±ª~~~");
+class Dog implements Animal{
+	public void shout(){
+		System.out.println("ÍôÍô~~");
 	}
-	
 }
